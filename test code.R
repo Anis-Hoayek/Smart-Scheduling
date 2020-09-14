@@ -1,3 +1,3 @@
-library(ISLR)
-data1 = iris
-head(data1)
+a=2
+b=5
+x=a+b
